@@ -1,0 +1,4 @@
+check50 2015.fall.hacker1.hello hello.c
+check50 2015.fall.hacker1.water water.c
+check50 2015.fall.hacker1.credit credit.c
+check50 2015.fall.hacker1.mario mario.c
