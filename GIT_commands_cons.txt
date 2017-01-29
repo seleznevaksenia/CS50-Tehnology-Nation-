@@ -1,0 +1,45 @@
+information about folder:
+git status
+________________________________
+initialization of git repositorium:
+git init
+________________________________
+add all files to staging area:
+git add .
+_________________________________
+Добавляем в git репозиторий на постоянное хранение:
+git commit -m'First commit'
+________________________________
+info about commit:
+git log
+____________________________
+add all files to staging area + Добавляем в git репозиторий на постоянное хранение:
+git commit -a
+______________________________________
+Show what has changed:
+git log -p
+______________________________________
+Delet file from staging area:
+git reset HEAD index.html
+_______________________________________
+Show number of last commit:
+git log -2
+_________________________________________
+Clone files from githud:
+git clone https://github.com/seleznevaksenia/JS_form.git
+_________________________________________________
+show all branches:
+git branch
+_________________________________________________
+craete new branch:
+git branch branch2
+___________________________________________
+move to branch:
+git checkout branch2
+___________________________________________
+Слияние:
+git merge branch2
+_______________________________________________
+delete branch:
+git branch -d branch2
+________________________________________________
